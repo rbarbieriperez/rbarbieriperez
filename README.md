@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Rodrigo Barbieri, I'm 20 years old, being studying Font End developing since a year ago and I'm looking for my first work experience as a Developer. As you can see on my github, I have many projects that I have developed during this time. 
+- 👋 Hi, I'm Rodrigo Barbieri, I'm 20 years old developer. With experience working with many front end technologies.
 If you want to contact me, please send a mail to rbarbieriperez@gmail.com. Only for business purposes. Thanks :) 
 
 <!---
